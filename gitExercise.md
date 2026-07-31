@@ -20,3 +20,11 @@ cccccccc 我是Jin 我也修改这行代码 改成yyyyyyyyyyyyyyyyyyyy
 xxxxxxxxxxxxxxxxxxx
 
 yyyyyyyyyyyyyyyyyyy
+
+## 我是Kin 我开发了一个新功能write 代码:
+
+mmmmmmmmmmmmmmmm
+
+nnnnnnnnnnnnnnnnn
+
+ppppppppppppppppp
