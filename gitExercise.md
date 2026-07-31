@@ -1,6 +1,6 @@
 # Git Exercise: Rebase
 
-我是Jin 我开发了一个login功能 代码:
+## 我是Jin 我开发了一个login功能 代码:
 
 aaaaaaaa
 
@@ -13,3 +13,10 @@ cccccccc 我是Jin 我也修改这行代码 改成yyyyyyyyyyyyyyyyyyyy
 哈哈哈哈哈 我JIN SHAOBO又对文件做出了新的修改
 
 笑嘻了 我KIN SHOHAKU也对文件做出了新的修改
+
+
+## 我是Jin 我又开发了一个read功能 代码:
+
+xxxxxxxxxxxxxxxxxxx
+
+yyyyyyyyyyyyyyyyyyy
